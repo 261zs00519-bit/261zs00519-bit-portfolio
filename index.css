@@ -1,15 +1,15 @@
-#helloworld{
-  transition: opacity 8.0s ease;
-    opacity: 1;
-  }
 body{
+  #helloworld-area{
+  color: white
+  background-color:rgb(223, 124, 165);
+  }
   background-color: rgb(218, 185, 199);
-  color: aliceblue;
+  color: black;
   li{
     list-style-type: square;
   }
   a{
-    color: rgb(51, 54, 218);
+    color: blue;
   }
 }
 .attention{
