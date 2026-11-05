@@ -1,8 +1,9 @@
-body{
-  #helloworld-area{
+#helloworld-area{
   color: white
   background-color:rgb(223, 124, 165);
-  }
+}
+
+body{
   background-color: rgb(218, 185, 199);
   color: black;
   li{
@@ -12,6 +13,7 @@ body{
     color: blue;
   }
 }
+  
 .attention{
   color: red;
 }
